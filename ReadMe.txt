@@ -1,0 +1,1 @@
+Melumat movcud deyil
