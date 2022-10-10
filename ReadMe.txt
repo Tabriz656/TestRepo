@@ -1,1 +1,2 @@
-Melumat movcud deyil
+Yeni Melumat elde edildi.
+kod duzgun icra edilib.
